@@ -1,6 +1,7 @@
 # ModuleSync
 
 **ModuleSync** is a Roblox Luau utility that synchronizes ModuleScript data from the server to all clients in real time. Set values once on the server and have them automatically reflected on every connected client — with support for hook functions, path-based exclusions, and a full suite of table and primitive manipulation methods.
+Created 9/21/2025
 
 ---
 
